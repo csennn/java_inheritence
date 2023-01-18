@@ -1,2 +1,6 @@
-# java_inheritence
-It is a simple example for understand.
+# java_inheritence --> it is a simple example for understand.
+
+Output:
+I am walking
+I am flying
+I am singing
